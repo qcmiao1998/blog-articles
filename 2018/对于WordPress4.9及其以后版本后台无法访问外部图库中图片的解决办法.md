@@ -2,6 +2,10 @@
 
 ## 更新
 
+### 2018.3.12
+
+2018.2.12 更新中提到的修改已被提前至 `4.9.5` 版本，即将随新版发布。
+
 ### 2018.2.12
 
 我昨天在处理该问题时在 WordPress 的网站提交了一个 Ticket [`#43285`](https://core.trac.wordpress.org/ticket/43285) ，之后给到的回复是会在之后的版本中考虑将默认的 Referrer Policy 改为 `strict-origin-when-cross-origin` 。现在该修改已在 `5.0` 版本的待审核队列中。
